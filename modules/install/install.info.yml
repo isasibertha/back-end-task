@@ -1,0 +1,6 @@
+name: Install 
+type: module
+description: 'Install function that will create the vocabulary on module install.'
+package: Install
+core_version_requirement:  ^9 || ^10
+core: 9.x 

@@ -1,0 +1,7 @@
+welcome.page:
+  path: '/install_page'
+  defaults:
+  _controller: '\Drupal\install\Controller\InstallController::Install'
+  _title: 'Install function that will create the vocabulary on module install.'
+  requirements:
+    _permission: 'access content'
