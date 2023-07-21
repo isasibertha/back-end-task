@@ -1,0 +1,20 @@
+Actividades realizadas para el task nestlé:
+Instalación de php (php -v: 8.2.8)
+Instalación de composer (composer -v: 2.5.8)
+XAMPP v3.3.0
+Web Server: Apache
+DataBase: MySQL on PHPmyAdmin
+
+Proyecto:
+1. Using Composer
+composer create-project acquia/drupal-recommended-project drupal-project --no-interaction
+cd drupal-project
+composer update
+
+2. Download directly from Drupal .zip file
+
+
+Push your new code upstream
+git init
+git remote add [remote-name] [remote-url]
+git push [remote-name] [branch-name]
