@@ -1,0 +1,6 @@
+name: Drupal Task Module
+type: module
+description: 'Welcome!'
+package: Welcome
+core_version_requirement:  ^9 || ^10
+core: 9.x 
